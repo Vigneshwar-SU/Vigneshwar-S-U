@@ -5,7 +5,7 @@
 - 🌱 I’m learning **advanced React.js and backend integration**
 - 👯 I’m looking to collaborate on **web development projects** and **open-source contributions**
 - 💬 Ask me about **Frontend development, Django, and building responsive websites**
-- 📫 How to reach me: **[vigneshwar@example.com](mailto:vigneshwar@example.com)**
+- 📫 How to reach me: **[vigneshwar@example.com](vigneshwar.1664@gmail.com)**
 
 ---
 
@@ -18,8 +18,8 @@
 ---
 
 ### 🔗 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwar-su)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwar-s-u-1a8467247/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Vigneshwar-SU)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-critical?style=flat)](https://your-portfolio-link.com)
 
 ---
