@@ -25,8 +25,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![Vigneshwar's GitHub Stats][(https://github.com/Vigneshwar-SU)]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+![Vigneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwar-SU&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwar-SU&layout=compact&theme=dark)
 
 ---
 
