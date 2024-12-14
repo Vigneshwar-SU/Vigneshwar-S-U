@@ -37,7 +37,7 @@
 ---
 
 ### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vigneshwar-SU&theme=darkhub&no-frame=true&margin-w=15)
 
 ---
 
